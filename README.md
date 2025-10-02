@@ -27,8 +27,8 @@ A **Fashion Recommendation System** that provides clothing suggestions based on 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fashion-recommendation-system.git
-cd fashion-recommendation-system
+git clone https://github.com/kondurupriyanka/Fashion_Recommendation_System_Using_Features.git
+cd Fashion_Recommendation_System_Using_Features
 
 
 2. Install dependencies:
